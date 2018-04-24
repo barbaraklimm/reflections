@@ -3,3 +3,7 @@ Reflections about lesson 3:
 When would you want to use a remote repository rather than keeping all your work local?
 
 - when working in a team
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+- when working on a feature I don't want unknown code changes to destroy the current status of it
